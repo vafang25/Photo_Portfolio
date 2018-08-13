@@ -21,6 +21,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
         } else if (dig.src === "file:///C:/Users/GWC13/Documents/Photo/adam2.JPG") {
             dig.src = "file:///C:/Users/GWC13/Documents/Photo/adam3.JPG";
         } else if (dig.src === "file:///C:/Users/GWC13/Documents/Photo/adam3.JPG") {
+            dig.src = "file:///C:/Users/GWC13/Documents/Photo/flower.JPG";
+        } else if (dig.src === "file:///C:/Users/GWC13/Documents/Photo/flower.JPG") {
             dig.src = "file:///C:/Users/GWC13/Documents/Photo/noelle1.JPG";
         }
     });
