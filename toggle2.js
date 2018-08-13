@@ -9,6 +9,18 @@ document.addEventListener("DOMContentLoaded", function(event) {
         } else if (dig.src === "file:///C:/Users/GWC13/Documents/Photo/noelle3.JPG") {
             dig.src = "file:///C:/Users/GWC13/Documents/Photo/noelle4.JPG";
         } else if (dig.src === "file:///C:/Users/GWC13/Documents/Photo/noelle4.JPG") {
+            dig.src = "file:///C:/Users/GWC13/Documents/Photo/noelle5.JPG";
+        } else if (dig.src === "file:///C:/Users/GWC13/Documents/Photo/noelle5.JPG") {
+            dig.src = "file:///C:/Users/GWC13/Documents/Photo/cindy5.JPG";
+        } else if (dig.src === "file:///C:/Users/GWC13/Documents/Photo/cindy5.JPG") {
+            dig.src = "file:///C:/Users/GWC13/Documents/Photo/cindy6.JPG";
+        } else if (dig.src === "file:///C:/Users/GWC13/Documents/Photo/cindy6.JPG") {
+            dig.src = "file:///C:/Users/GWC13/Documents/Photo/cindy7.JPG";
+        } else if (dig.src === "file:///C:/Users/GWC13/Documents/Photo/cindy7.JPG") {
+            dig.src = "file:///C:/Users/GWC13/Documents/Photo/adam2.JPG";
+        } else if (dig.src === "file:///C:/Users/GWC13/Documents/Photo/adam2.JPG") {
+            dig.src = "file:///C:/Users/GWC13/Documents/Photo/adam3.JPG";
+        } else if (dig.src === "file:///C:/Users/GWC13/Documents/Photo/adam3.JPG") {
             dig.src = "file:///C:/Users/GWC13/Documents/Photo/noelle1.JPG";
         }
     });
