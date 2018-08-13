@@ -56,16 +56,20 @@ body {
     font-family: 'Oswald', sans-serif;
     max-width: 100%;
     overflow-x: hidden;
+    overflow-y: hidden;
 }
 #cin1 {
     width: 700px;
     height: 700px;
+    padding: 25px;
 }
 #noe1 {
     width: 700px;
     height: 700px;
+    padding: 25px;
 }
 #douexp1{
     width: 700px;
     height: 700px;
+    padding: 25px;
 }
